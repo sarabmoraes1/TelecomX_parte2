@@ -1,5 +1,7 @@
 📊 Projeto Telecom X - Predição de Churn
+
 🎯 Objetivo
+
 Desenvolver um modelo de Machine Learning para prever a evasão de clientes (Churn) e identificar os principais motivos que levam ao cancelamento.
 
 🛠️ Tecnologias Utilizadas
